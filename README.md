@@ -48,10 +48,43 @@ p̂ = 140 / 270
 p̂ = 0,52
 p̂ = 52%
 
+# Tabel Naive Estimation
+
+| Variabel | Jumlah Skor 4+5 | Total Responden | Naive Estimation |
+| -------- | --------------- | --------------- | ---------------- |
+| P1       | 19              | 27              | 0,7037           |
+| P2       | 18              | 27              | 0,6667           |
+| P3       | 20              | 27              | 0,7407           |
+| P4       | 21              | 27              | 0,7778           |
+| P5       | 15              | 27              | 0,5556           |
+| P6       | 22              | 27              | 0,8148           |
+| P7       | 19              | 27              | 0,7037           |
+| P8       | 17              | 27              | 0,6296           |
+| P9       | 16              | 27              | 0,5926           |
+| P10      | 18              | 27              | 0,6667           |
+
 Hasil naive estimation menunjukkan bahwa sebesar 52% responden memberikan jawaban positif terhadap kebiasaan belajar selama masa ujian.
 
 ## Weighted Estimation
 Weighted estimation dilakukan untuk menyesuaikan hasil estimasi berdasarkan proporsi sampel penelitian.
+# Tabel Weight Estimation
+
+| Jenis Kelamin | Populasi | Sampel |
+| ------------- | -------- | ------ |
+| Laki-laki     | 60       | 10     |
+| Perempuan     | 94       | 17     |
+| Total         | 154      | 27     |
+
+### Perhitungan Bobot
+
+* Bobot laki-laki:
+
+wl = (60/154) ÷ (10/27) = 1,05
+
+* Bobot perempuan:
+
+wp = (94/154) ÷ (17/27) = 0,97
+
 Rumus pembobotan:
 wi = Proporsi Populasi / Proporsi Sampel
 

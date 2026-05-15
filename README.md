@@ -104,6 +104,18 @@ Weighted Estimation = 55%
 Hasil weighted estimation menunjukkan bahwa setelah dilakukan pembobotan, estimasi kebiasaan belajar mahasiswa selama masa ujian menjadi sebesar 55%.
 
 ## Tabel Perbandingan Estimasi
+Perbandingan Naive vs Weighted Estimation
+Variabel	Naive Mean	Weighted Mean
+P1	3,90	3,95
+P2	3,70	3,75
+P3	4,00	4,03
+P4	4,10	4,12
+P5	3,40	3,45
+P6	4,20	4,18
+P7	3,80	3,84
+P8	3,60	3,65
+P9	3,50	3,55
+P10	3,70	3,73
 
 | Metode Estimasi     | Hasil |
 | ------------------- | ----- |

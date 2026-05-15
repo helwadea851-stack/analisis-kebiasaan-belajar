@@ -63,10 +63,11 @@ p̂ = 52%
 | P9       | 16              | 27              | 0,5926           |
 | P10      | 18              | 27              | 0,6667           |
 
-Hasil naive estimation menunjukkan bahwa sebesar 52% responden memberikan jawaban positif terhadap kebiasaan belajar selama masa ujian.
+Berdasarkan hasil naive estimation, sebagian besar responden memberikan jawaban positif pada item pertanyaan yang diberikan. Hal ini menunjukkan bahwa mahasiswa memiliki kebiasaan belajar yang cukup baik selama masa ujian.
 
 ## Weighted Estimation
 Weighted estimation dilakukan untuk menyesuaikan hasil estimasi berdasarkan proporsi sampel penelitian.
+
 # Tabel Weight Estimation
 
 | Jenis Kelamin | Populasi | Sampel |
@@ -105,24 +106,26 @@ Hasil weighted estimation menunjukkan bahwa setelah dilakukan pembobotan, estima
 
 ## Tabel Perbandingan Estimasi
 Perbandingan Naive vs Weighted Estimation
-Variabel	Naive Mean	Weighted Mean
-P1	3,90	3,95
-P2	3,70	3,75
-P3	4,00	4,03
-P4	4,10	4,12
-P5	3,40	3,45
-P6	4,20	4,18
-P7	3,80	3,84
-P8	3,60	3,65
-P9	3,50	3,55
-P10	3,70	3,73
+
+| Variabel | Naive Mean | Weighted Mean |
+| -------- | ---------- | ------------- |
+| P1       | 3,90       | 3,95          |
+| P2       | 3,70       | 3,75          |
+| P3       | 4,00       | 4,03          |
+| P4       | 4,10       | 4,12          |
+| P5       | 3,40       | 3,45          |
+| P6       | 4,20       | 4,18          |
+| P7       | 3,80       | 3,84          |
+| P8       | 3,60       | 3,65          |
+| P9       | 3,50       | 3,55          |
+| P10      | 3,70       | 3,73          
 
 | Metode Estimasi     | Hasil |
 | ------------------- | ----- |
 | Naive Estimation    | 52%   |
 | Weighted Estimation | 55%   |
 
-Berdasarkan hasil perbandingan estimasi, weighted estimation menunjukkan hasil yang relatif konsisten dengan naive estimation sehingga data responden dianggap cukup representatif dalam menggambarkan kebiasaan belajar mahasiswa selama masa ujian.
+Berdasarkan hasil perbandingan naive estimation dan weighted estimation, terlihat bahwa nilai rata-rata kedua metode tidak memiliki perbedaan yang terlalu besar. Hal ini menunjukkan bahwa data responden sudah cukup representatif dalam menggambarkan kebiasaan belajar mahasiswa selama masa ujian.
 
 ## Kesimpulan
 Berdasarkan hasil penelitian, dapat disimpulkan bahwa mayoritas mahasiswa memiliki kebiasaan belajar yang cukup baik selama masa ujian.

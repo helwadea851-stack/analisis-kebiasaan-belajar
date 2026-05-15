@@ -24,6 +24,7 @@ Analisis data dilakukan menggunakan SPSS, meliputi:
 
 ## Hasil Penelitian
  Output SPSS.docx
+ 
 Hasil uji validitas menunjukkan seluruh item pernyataan valid karena memiliki nilai Corrected Item-Total Correlation > 0,30.
 
 Hasil uji reliabilitas menunjukkan nilai Cronbach’s Alpha sebesar 0,929 sehingga instrumen penelitian dinyatakan sangat reliabel.
